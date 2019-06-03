@@ -1,3 +1,3 @@
-/*ä¸­æ–‡ä»£ç æµ‹è¯• */
+/*ÖĞÎÄ´úÂë²âÊÔ  */
 proc print data=sashelp.class;
 run;
